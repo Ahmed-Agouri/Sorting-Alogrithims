@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{996292DA-BC4E-4D85-94DE-CD84A735D56A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Project_2204 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project 4/Program.cs">
+    <Files>
+      <File FileName="Project 4/Program.cs" Line="40" Column="53" />
+      <File FileName="Project 4/quick_sorted_dataset.txt" />
+      <File FileName="Project 4/unsorteddataset.txt" />
+      <File FileName="Project 4/bubble_sorted_dataset.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project 4" expanded="True">
+            <Node name="Project 4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
